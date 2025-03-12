@@ -46,7 +46,7 @@
  // Register slash command
  const commands = [
    {
-     name: 'generate-adoptme ',
+     name: 'generate-adm ',
      description: 'Generate a MM2 script.',
    },
  ];
